@@ -29,3 +29,38 @@ main {
     position: relative;
     background-color: #EEEEEE;
 }
+
+.step-box-img1 {
+    background-image: url(img/flow01.png);
+    background-size: cover;
+    height: 150px;
+    background-position: bottom;
+}
+
+.step-num {
+	color: #FFFFFF;
+    padding: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FF9A4b;
+}
+
+.title {
+	margin: 15px 0 5px;
+}
+
+.step-box-img2 {
+	background-image: url(img/flow02.png);
+	background-size: cover;
+	height: 150px;
+	background-position: bottom;
+}
+
+.step-box-img3 {
+	background-image: url(img/flow03.png);
+	background-size: cover;
+	height: 150px;
+	background-position: bottom;
+}
+
