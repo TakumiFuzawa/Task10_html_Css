@@ -1,11 +1,16 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 .clearfix::after {
-  display: block;
-  content: "";
-  clear: both;
+    display: block;
+    content: "";
+    clear: both;
+}
+
+header {
+    height: 50px;
+    background-color: #ff9a4b;
 }
