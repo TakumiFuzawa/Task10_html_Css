@@ -38,7 +38,7 @@ main {
 }
 
 .step-num {
-	color: #FFFFFF;
+    color: #FFFFFF;
     padding: 3px;
     position: absolute;
     top: 0;
@@ -47,20 +47,29 @@ main {
 }
 
 .title {
-	margin: 15px 0 5px;
+    margin: 15px 0 5px;
 }
 
 .step-box-img2 {
-	background-image: url(img/flow02.png);
-	background-size: cover;
-	height: 150px;
-	background-position: bottom;
+    background-image: url(img/flow02.png);
+    background-size: cover;
+    height: 150px;
+    background-position: bottom;
 }
 
 .step-box-img3 {
-	background-image: url(img/flow03.png);
-	background-size: cover;
-	height: 150px;
-	background-position: bottom;
+    background-image: url(img/flow03.png);
+    background-size: cover;
+    height: 150px;
+    background-position: bottom;
+}
+
+footer {
+    height: 50px;
+    background-color: #AAAAAA;
+}
+
+.box:last-child {
+  margin-right: 0;
 }
 
