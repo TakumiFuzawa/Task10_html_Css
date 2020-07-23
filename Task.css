@@ -73,3 +73,20 @@ footer {
   margin-right: 0;
 }
 
+@media screen and (max-width: 768px) {
+
+	header {
+		width: 100px;
+	}
+
+	.box {
+		width: 100px;
+		float: none;
+	}
+
+	footer {
+		width: 100px;
+	}
+
+}
+
