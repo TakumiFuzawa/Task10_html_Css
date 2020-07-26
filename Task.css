@@ -70,23 +70,23 @@ footer {
 }
 
 .box:last-child {
-  margin-right: 0;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 768px) {
 
-	header {
-		width: 100px;
-	}
+    .clearfix {
+        width: 100%;
+    }
 
-	.box {
-		width: 100px;
-		float: none;
-	}
+    main {
+        width: 100%;
+    }
 
-	footer {
-		width: 100px;
-	}
+    .clearfix .box {
+        float: none;
+        margin: 0 auto;
+
+    }
 
 }
-
