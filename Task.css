@@ -75,10 +75,6 @@ footer {
 
 @media screen and (max-width: 768px) {
 
-    .clearfix {
-        width: 100%;
-    }
-
     main {
         width: 100%;
     }
