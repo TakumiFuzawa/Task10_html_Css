@@ -82,7 +82,7 @@ footer {
     .clearfix .box {
         float: none;
         margin: 20px auto;
-
+        width: 90%;
     }
 
 }
