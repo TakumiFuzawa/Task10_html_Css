@@ -73,6 +73,7 @@ footer {
     margin-right: 0;
 }
 
+
 @media screen and (max-width: 768px) {
 
     main {
@@ -82,7 +83,7 @@ footer {
     .clearfix .box {
         float: none;
         margin: 20px auto;
-
+        width: 90%;
     }
 
 }
